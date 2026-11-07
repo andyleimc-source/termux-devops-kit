@@ -88,3 +88,8 @@ termux-reload-settings
 - [Termux 软件包管理](https://github.com/termux/termux-packages/wiki/Package-Management)
 - [Termux 属性及配置路径](https://github.com/termux/termux-app/blob/master/termux-shared/src/main/java/com/termux/shared/termux/TermuxConstants.java)
 - [Termux 扩展键盘实现](https://github.com/termux/termux-app/blob/master/termux-shared/src/main/java/com/termux/shared/termux/extrakeys/ExtraKeysInfo.java)
+
+## 安卓掌机街机与封面
+
+- [Retroid Pocket Duo Lite 街机安装与按键排查](ANDROID_ARCADE.md)：模拟器、中文收藏、双屏焦点、十字键修复和备份恢复。
+- [中文列表封面补齐与视觉筛选](ARCADE_COVERS.md)：32款精选图片映射、离线下载/安装工具，以及实际显示与回退方法。
